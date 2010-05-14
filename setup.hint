@@ -1,0 +1,6 @@
+category: Audio
+requires: libgcc1 libglib2.0_0 libmad0 libogg0 libvorbis0
+sdesc: "Records shoutcast-compatible audio streams"
+ldesc: "Streamripper records shoutcast-compatible streams. For shoutcast 
+style streams it finds the meta data or track separation data, and 
+uses that as a marker for where the track should be separated."

@@ -1,0 +1,4 @@
+
+
+
+SRC_URI="mirror://sourceforge/streamripper/${P}.tar.gz"
