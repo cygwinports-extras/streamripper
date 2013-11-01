@@ -1,3 +1,0 @@
-DESCRIPTION="Records shoutcast-compatible audio streams"
-HOMEPAGE="http://streamripper.sourceforge.net/"
-SRC_URI="mirror://sourceforge/streamripper/${P}.tar.gz"

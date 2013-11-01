@@ -1,0 +1,11 @@
+NAME="streamripper"
+VERSION=1.64.6
+RELEASE=1
+CATEGORY="Audio"
+SUMMARY="Records shoutcast-compatible audio streams"
+DESCRIPTION="Streamripper records shoutcast-compatible streams. For shoutcast
+style streams it finds the meta data or track separation data, and uses that
+as a marker for where the track should be separated."
+HOMEPAGE="http://streamripper.sourceforge.net/"
+SRC_URI="mirror://sourceforge/streamripper/${NAME}-${VERSION}.tar.gz"
+PATCH_URI="1.64.6-Wimplicit-decls.patch"
